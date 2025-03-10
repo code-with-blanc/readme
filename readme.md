@@ -12,7 +12,7 @@ This GitHub contains (among other things):
 [Live Demo](https://code-with-blanc.github.io/quake-viewer/)
 [Repository](https://github.com/code-with-blanc/quake-viewer)
 
-This is an earthquake viewer with React + Redux for the frontend and three.js for 3D rendering. It is currently just a hobby project that I update occasionally, but with luck, it may become a useful tool for scientific outreach. :)
+This is an earthquake viewer with React + Redux for the frontend and three.js for 3D rendering. It is currently just a hobby project that I update occasionally, but with luck, it may become a useful tool for scientific communication. :)
 
 ![Quake Viewer screenshot](./assets/quake-viewer.jpeg)
 
